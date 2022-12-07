@@ -1,0 +1,37 @@
+/* * {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+} */
+
+.card {
+    background-color: rgb(182, 245, 235);
+    /* background-image: url(https://img.freepik.com/vecteurs-libre/fond-bleu-emoticones-colorees_23-2147630911.jpg?w=826&t=st=1670427192~exp=1670427792~hmac=0744a3a5537a055bd6923749bf9ba22513aa27a253d01f8b24aaa8b46903865c);
+    background-size: 100% auto; */
+    width:500px;
+    height:800px;
+    margin-top:200px;
+    /* opacity: .5; */
+
+
+}
+
+.card-bg {
+    background-image: url(https://img.freepik.com/vecteurs-libre/fond-bleu-emoticones-colorees_23-2147630911.jpg?w=826&t=st=1670427192~exp=1670427792~hmac=0744a3a5537a055bd6923749bf9ba22513aa27a253d01f8b24aaa8b46903865c);
+    background-size: 100% auto;
+ 
+}
+
+.bg-light {
+    border-radius: 30px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    
+}
+
+.en, .fr, .cn, img {
+    display: none;
+}
