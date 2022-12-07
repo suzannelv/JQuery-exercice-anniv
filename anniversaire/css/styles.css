@@ -15,10 +15,20 @@
 
 
 }
+.bg-en {
+    background-color: rgb(117, 181, 234);
+}
+.bg-fr{
+    background-color: rgb(240, 216, 220);
+}
+.bg-cn {
+    background-color: cornsilk;
+}
 
 .card-bg {
     background-image: url(https://img.freepik.com/vecteurs-libre/fond-bleu-emoticones-colorees_23-2147630911.jpg?w=826&t=st=1670427192~exp=1670427792~hmac=0744a3a5537a055bd6923749bf9ba22513aa27a253d01f8b24aaa8b46903865c);
     background-size: 100% auto;
+
  
 }
 
